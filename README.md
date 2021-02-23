@@ -1,1 +1,1 @@
-# 141b-Shiny-NBA-player-performance
+# R Shiny visualization for comparing NBA player performance: *NBA Stats Lite*
